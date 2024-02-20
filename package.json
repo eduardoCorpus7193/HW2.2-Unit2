@@ -1,0 +1,16 @@
+{
+  "name": "practica-npm-eduardo",
+  "version": "1.0.0",
+  "description": "mi primer practica npm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start:dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Eduardo Corpus",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
